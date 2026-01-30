@@ -41,6 +41,14 @@ a:hover{
     border-radius: 25px;
 }
 
+.firstbutton{
+    font-size: 20px;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 40px;
+}
+
 .secondbutton{
     font-size: 20px;
     width: 80%;
