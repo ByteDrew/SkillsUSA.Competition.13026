@@ -27,6 +27,9 @@ a:hover{
 }
 h3{
     position: fixed;
+    font-size: xx-large;
+    color: white;
+    z-index: 1000;
     font-family: 'Courier New', Courier, monospace;
 }
 
