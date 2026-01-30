@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <icon rel="icon" type="image/x-icon" href="assets/OIP.webp"></icon>
-    <title>About</title>
+    <title>Menu</title>
 </head>
 <body>
-    <nav>
     <div class="nav-links">
         <a href="index.html"><img src="assets/OIP.webp" height="50px"></a>
         <a href="index.html">HOME</a>
@@ -16,19 +14,18 @@
         <a href="https://www.metacritic.com/">REVIEWS</a>
         <a href="contacts.html">CONTACTS</a>            
     </div>
-</nav>
-<div class="about-container">
-    <h1>Our Goal</h1>
-    <p>We strive to provide the best customer service when it comes to homestyle food dining. When it comes to satifaction we make sure that every single customer leaves feeling that money was well spent.</p>
-    <img src="imageSrc/people.jpg" class="goal-background">
-    <h1>Our Story</h1>
-    <p>From the kitchen of a stay at home mom, our mouth watering food is to die for. Originally just scraoping by, our family here has an honest living off this delicous food by sharing with the community</p>
-    <img src="imageSrc/">
-</div>
+    <div>
+        <h1>Burger</h1>
+        <p>Our homestyle burgers are grilled with 100% fresh beef and seasame seed buns</p>
+        <h1>Chicken Tenders</h1>
+        <p>Our fresh chicken is breaded with a combination of spices passed through generation of our family. Fried in soybean oil, our chicken tenders are very crispy and moist.</p>
+        <h1>Fries</h1>
+        <p>Our Waffle style fries are made from Russel Potatoes and arwe topped with a steak seasoning</p>
+    </div>
 </body>
 <style>
      body{
-    margin: 0 !important;
+        margin: 0 !important;
     }
     .nav-links{
         display: flex;
@@ -39,20 +36,9 @@
         font-size: 20px;
         font-family:'Courier New', Courier, monospace;
     }
-    .about-container{
-        justify-content: center;
-    }
-    p{
-        font-family: 'Courier New', Courier, monospace;
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-    h1{
-        font-family: 'Courier New', Courier, monospace;
-        justify-self: center;
-    }
-    img{
+    .page-background{
         width: -webkit-fill-available;
+        z-index: 1;
     }
     a{
         text-decoration-line: none;
