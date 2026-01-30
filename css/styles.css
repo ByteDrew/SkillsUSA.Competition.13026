@@ -9,7 +9,7 @@
 a{
     text-decoration-line: none;
     color: white;
-    align-content: right;
+    float: right;
 }
 a:hover{
     color: black;
