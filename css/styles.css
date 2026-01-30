@@ -1,12 +1,15 @@
 .nav-links{
     display: flex;
-    background-color: #a15a5a;
+    gap: 20px;
+    background-color: #7c7c7c;
+    padding: 10px;
     text-align: right;
 }
 
 a{
     text-decoration-line: none;
     color: white;
+    text-align: right;
 }
 a:hover{
     color: black;
