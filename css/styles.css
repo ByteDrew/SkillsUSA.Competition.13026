@@ -12,6 +12,7 @@
 }
 .page-background{
     width: -webkit-fill-available;
+    z-index: 1;
 }
 a{
     text-decoration-line: none;
@@ -35,4 +36,5 @@ a:hover{
     background-color: rgba(143, 72, 72, 0.2);
     width: 40%;
     height: 70%;
+    z-index: 2;
 }
