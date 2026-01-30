@@ -27,7 +27,10 @@ a:hover{
 }
 h3{
     position: fixed;
-    font-size: xx-large;
+    font-size: 100px;
+    background-color: #8b3e3e;
+    justify-self: center;
+    align-self: center;
     color: white;
     z-index: 1000;
     font-family: 'Courier New', Courier, monospace;
