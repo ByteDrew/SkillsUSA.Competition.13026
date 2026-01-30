@@ -1,3 +1,6 @@
+ body{
+    margin: 0 !important;
+ }
 .nav-links{
     display: flex;
     gap: 20px;
@@ -7,7 +10,9 @@
     font-size: 20px;
     font-family:'Courier New', Courier, monospace
 }
-
+.page-background{
+    width: -webkit-fill-available;
+}
 a{
     text-decoration-line: none;
     color: white;
