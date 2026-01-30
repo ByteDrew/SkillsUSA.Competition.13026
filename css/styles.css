@@ -37,4 +37,5 @@ a:hover{
     width: 40%;
     height: 70%;
     z-index: 2;
+    display: flex;
 }
