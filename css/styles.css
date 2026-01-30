@@ -26,11 +26,11 @@ a:hover{
     text-align: right;
 }
 h3{
+    justify-self: center;
+    align-self: center;
     position: fixed;
     font-size: 100px;
     background-color: #8b3e3e;
-    justify-content: center;
-    align-self: center;
     color: white;
     z-index: 1000;
     font-family: 'Courier New', Courier, monospace;
