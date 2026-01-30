@@ -25,6 +25,10 @@ a:hover{
     float: right;
     text-align: right;
 }
+h3{
+    position: fixed;
+    font-family: 'Courier New', Courier, monospace;
+}
 
 .contactinformationbox{
     text-align: center;
