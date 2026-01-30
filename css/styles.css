@@ -40,3 +40,21 @@ a:hover{
     position:fixed;
     border-radius: 25px;
 }
+
+.secondbutton{
+    font-size: 20px;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.submitbutton{
+    font-size: 20px;
+    width: 40%;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: #8b3e3e;
+    color: white;
+}
