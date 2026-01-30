@@ -3,15 +3,16 @@
     gap: 20px;
     background-color: #7c7c7c;
     padding: 10px;
-    float: right;
 }
 
 a{
     text-decoration-line: none;
     color: white;
     float: right;
+    text-align: right;
 }
 a:hover{
     color: black;
     float: right;
+    text-align: right;
 }
