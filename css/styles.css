@@ -4,6 +4,7 @@
     background-color: #7c7c7c;
     padding: 10px;
     align-items: center;
+    justify-content: right;
 }
 
 a{
@@ -11,11 +12,9 @@ a{
     color: white;
     float: right;
     text-align: right;
-    margin-top: 50%;
 }
 a:hover{
     color: black;
     float: right;
     text-align: right;
-    margin-top: 50%;
 }
